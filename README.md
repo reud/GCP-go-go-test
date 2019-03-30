@@ -9,7 +9,7 @@ Private File RW Test
 
 ## Requirement
 
-see [go.mod](https://github.com/reud/gcp-go-go/blob/master/go.mod)
+see [go.mod](https://github.com/reud/GCP-go-go-test/blob/master/go.mod)
 
 ## Usage
 
